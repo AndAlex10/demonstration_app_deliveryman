@@ -1,0 +1,5 @@
+
+class ActionOrder {
+  static final String ORDER_REJECTED_DELIVERYMAN = "ORDER_REJECTED_DELIVERYMAN";
+  static final String ORDER_ACCEPT_DELIVERYMAN = "ORDER_ACCEPT_DELIVERYMAN";
+}
